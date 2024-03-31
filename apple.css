@@ -14,7 +14,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 37px;
+  gap: 36px;
   background-color: #3f3f3f;
 }
 .nav-link {
